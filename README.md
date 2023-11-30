@@ -112,7 +112,7 @@ Publish the website in the LocalHost.
                 <hr>
             </div>
             <div class="h1">
-                <h1> Responsive Web Design with HTML5 and CSS </h1>
+                <h1> Building Web Apps for Everyone </h1>
             </div>
             <div class="para">
                 <p> Develop future-proof responsive websites using the latest HTML5 and CSS techniques </p>
@@ -140,7 +140,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Alt text](<bookcover 1.png>)
+![Alt text](<Screenshot (37).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
