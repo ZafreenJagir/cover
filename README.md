@@ -115,7 +115,7 @@ Publish the website in the LocalHost.
                 <h1> Building Web Apps for Everyone </h1>
             </div>
             <div class="para">
-                <p> Develop future-proof responsive websites using the latest HTML5 and CSS techniques </p>
+                <p> The opportunity to use the latest technologies of the web development, </p>
             </div>
             <div class="pic">
                 <img src="pic.jpg" width="130" height="145" alt="">
@@ -140,7 +140,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Alt text](<Screenshot (37).png>)
+
+![Alt text](<Screenshot (38).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
